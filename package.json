@@ -9,7 +9,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "cmd /c buildreset.bat && tsc",
-    "publish": "pnpm version patch && pnpm build && npm publish"
+    "npm": "pnpm version patch && pnpm build && npm publish"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
