@@ -1,10 +1,9 @@
 {
   "name": "ask-es",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "https://github.com/toolbox09/ask-es.git",
   "author": "lee sang hun",
   "license": "MIT",
-
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
